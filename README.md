@@ -6,4 +6,4 @@ This is my archieve of resources to turn into my Applied AI class
 
 - ^ These are just practice examples I was trying to follow along with your video showing us how to do it
 
-ACTUALLY USING THESE TO HELP BUILD MY GITHUB
+ACTUALLY USING THESE TO HELP BUILD MY GITHUB:
