@@ -5,4 +5,5 @@ This is my archieve of resources to turn into my Applied AI class
 - Here is [the most useful website for looking at baseball sabermetrics, called Baseball Savant](https://baseballsavant.mlb.com/preview?game_pk=745299&game_date=08/30/2024)
 
 ACTUALLY USING THESE TO HELP BUILD MY GITHUB:
-- Here is [my conversations with ChatGPT](https://chatgpt.com/share/e1321c05-b00d-4af8-a3cf-a3a2b2c6b47f) 
+- Here is [my conversation with Poe](https://poe.com/s/Kf5MTRUSZGVEnhlElvpK)
+-  Here is [my conversations with ChatGPT](https://chatgpt.com/share/e1321c05-b00d-4af8-a3cf-a3a2b2c6b47f) 
