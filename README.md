@@ -11,4 +11,4 @@ ACTUALLY USING THESE TO HELP BUILD MY GITHUB:
 - Here is what I used to prompt Poe to create my Baseball Savant md [here](https://poe.com/s/S2YRXjou4o6wxpbKvVqP)
 - Here is my context stream about finding information about pitching metrics, along with learning how to code with phyton, using claude to walk me through the steps. [here](https://claude.ai/chat/2fc1fce7-9db9-4731-81ca-b18f788f2ba8)
 - Here is how I used AI to help me back and incorperate my MLB Pitch Comparison, which took alot of trail and error to actually get correct - https://poe.com/s/Tqd3aLIooswP9UwjUaZB
-I asked AI for help with trying to generate AI Images related to my repo https://poe.com/s/eLXbbcSFt6QRc1rveuWH
+- I asked AI for help with trying to generate AI Images related to my repo https://poe.com/s/eLXbbcSFt6QRc1rveuWH
